@@ -1,0 +1,10 @@
+
+State Machine - |alarm_clk_rtl|aclk_controller:controller|state
+Name state.KEY_WAITED state.SET_CURRENT_TIME state.SET_ALARM_TIME state.SHOW_ALARM state.KEY_STORED state.KEY_ENTRY state.SHOW_TIME 
+state.SHOW_TIME 0 0 0 0 0 0 0 
+state.KEY_ENTRY 0 0 0 0 0 1 1 
+state.KEY_STORED 0 0 0 0 1 0 1 
+state.SHOW_ALARM 0 0 0 1 0 0 1 
+state.SET_ALARM_TIME 0 0 1 0 0 0 1 
+state.SET_CURRENT_TIME 0 1 0 0 0 0 1 
+state.KEY_WAITED 1 0 0 0 0 0 1 

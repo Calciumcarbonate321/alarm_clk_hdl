@@ -1,0 +1,113 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "sound_alarm",
+					"strict" : false
+				},
+				{
+					"name" : "display_ms_hr[0]",
+					"strict" : false
+				},
+				{
+					"name" : "display_ms_hr[1]",
+					"strict" : false
+				},
+				{
+					"name" : "display_ms_hr[2]",
+					"strict" : false
+				},
+				{
+					"name" : "display_ms_hr[3]",
+					"strict" : false
+				},
+				{
+					"name" : "display_ls_hr[0]",
+					"strict" : false
+				},
+				{
+					"name" : "display_ls_hr[1]",
+					"strict" : false
+				},
+				{
+					"name" : "display_ls_hr[2]",
+					"strict" : false
+				},
+				{
+					"name" : "display_ls_hr[3]",
+					"strict" : false
+				},
+				{
+					"name" : "display_ms_min[0]",
+					"strict" : false
+				},
+				{
+					"name" : "display_ms_min[1]",
+					"strict" : false
+				},
+				{
+					"name" : "display_ms_min[2]",
+					"strict" : false
+				},
+				{
+					"name" : "display_ms_min[3]",
+					"strict" : false
+				},
+				{
+					"name" : "display_ls_min[0]",
+					"strict" : false
+				},
+				{
+					"name" : "display_ls_min[1]",
+					"strict" : false
+				},
+				{
+					"name" : "display_ls_min[2]",
+					"strict" : false
+				},
+				{
+					"name" : "display_ls_min[3]",
+					"strict" : false
+				},
+				{
+					"name" : "fast_watch",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "alarm_button",
+					"strict" : false
+				},
+				{
+					"name" : "key[1]",
+					"strict" : false
+				},
+				{
+					"name" : "key[3]",
+					"strict" : false
+				},
+				{
+					"name" : "key[0]",
+					"strict" : false
+				},
+				{
+					"name" : "key[2]",
+					"strict" : false
+				},
+				{
+					"name" : "time_button",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

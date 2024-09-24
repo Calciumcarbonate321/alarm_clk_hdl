@@ -1,0 +1,113 @@
+D:/maven_silicon_alarm_clock/tb/tb_aclk_lcd_driver.v {1 {vlog -work work -stats=none D:/maven_silicon_alarm_clock/tb/tb_aclk_lcd_driver.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_aclk_lcd_driver
+
+Top level modules:
+	tb_aclk_lcd_driver
+
+} {} {}} D:/maven_silicon_alarm_clock/rtl/aclk_counter.v {1 {vlog -work work -stats=none D:/maven_silicon_alarm_clock/rtl/aclk_counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aclk_counter
+
+Top level modules:
+	aclk_counter
+
+} {} {}} D:/maven_silicon_alarm_clock/tb/tb_aclk_keyreg.v {1 {vlog -work work -stats=none D:/maven_silicon_alarm_clock/tb/tb_aclk_keyreg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_aclk_keyreg
+
+Top level modules:
+	tb_aclk_keyreg
+
+} {} {}} D:/maven_silicon_alarm_clock/tb/tb_aclk_areg.v {1 {vlog -work work -stats=none D:/maven_silicon_alarm_clock/tb/tb_aclk_areg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_aclk_areg
+
+Top level modules:
+	tb_aclk_areg
+
+} {} {}} D:/maven_silicon_alarm_clock/rtl/aclk_timegen.v {1 {vlog -work work -stats=none D:/maven_silicon_alarm_clock/rtl/aclk_timegen.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aclk_timegen
+
+Top level modules:
+	aclk_timegen
+
+} {} {}} D:/maven_silicon_alarm_clock/tb/tb_aclk_counter.v {1 {vlog -work work -stats=none D:/maven_silicon_alarm_clock/tb/tb_aclk_counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_aclk_counter
+
+Top level modules:
+	tb_aclk_counter
+
+} {} {}} D:/maven_silicon_alarm_clock/tb/tb_aclk_timegen.v {1 {vlog -work work -stats=none D:/maven_silicon_alarm_clock/tb/tb_aclk_timegen.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_aclk_timegen
+
+Top level modules:
+	tb_aclk_timegen
+
+} {} {}} D:/maven_silicon_alarm_clock/rtl/alarm_clk_rtl.v {1 {vlog -work work -stats=none D:/maven_silicon_alarm_clock/rtl/alarm_clk_rtl.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alarm_clk_rtl
+
+Top level modules:
+	alarm_clk_rtl
+
+} {} {}} D:/maven_silicon_alarm_clock/tb/tb_aclk_controller.v {1 {vlog -work work -stats=none D:/maven_silicon_alarm_clock/tb/tb_aclk_controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_aclk_controller
+
+Top level modules:
+	tb_aclk_controller
+
+} {} {}} D:/maven_silicon_alarm_clock/rtl/aclk_lcd_driver.v {1 {vlog -work work -stats=none D:/maven_silicon_alarm_clock/rtl/aclk_lcd_driver.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aclk_lcd_driver
+
+Top level modules:
+	aclk_lcd_driver
+
+} {} {}} D:/maven_silicon_alarm_clock/rtl/aclk_keyreg.v {1 {vlog -work work -stats=none D:/maven_silicon_alarm_clock/rtl/aclk_keyreg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aclk_keyreg
+
+Top level modules:
+	aclk_keyreg
+
+} {} {}} D:/maven_silicon_alarm_clock/rtl/aclk_areg.v {1 {vlog -work work -stats=none D:/maven_silicon_alarm_clock/rtl/aclk_areg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aclk_areg
+
+Top level modules:
+	aclk_areg
+
+} {} {}} D:/maven_silicon_alarm_clock/rtl/aclk_lcd_display.v {1 {vlog -work work -stats=none D:/maven_silicon_alarm_clock/rtl/aclk_lcd_display.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aclk_lcd_display
+
+Top level modules:
+	aclk_lcd_display
+
+} {} {}} D:/maven_silicon_alarm_clock/tb/tb_aclk_lcd_display.v {1 {vlog -work work -stats=none D:/maven_silicon_alarm_clock/tb/tb_aclk_lcd_display.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_aclk_lcd_display
+
+Top level modules:
+	tb_aclk_lcd_display
+
+} {} {}} D:/maven_silicon_alarm_clock/rtl/aclk_controller.v {1 {vlog -work work -stats=none D:/maven_silicon_alarm_clock/rtl/aclk_controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aclk_controller
+
+Top level modules:
+	aclk_controller
+
+} {} {}} D:/maven_silicon_alarm_clock/tb/tb_alarm_clk_rtl.v {1 {vlog -work work -stats=none D:/maven_silicon_alarm_clock/tb/tb_alarm_clk_rtl.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_alarm_clk_rtl
+
+Top level modules:
+	tb_alarm_clk_rtl
+
+} {} {}}
